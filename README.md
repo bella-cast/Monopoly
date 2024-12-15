@@ -49,5 +49,5 @@ Monopoly/
    - Roll the dice to move around the board.
    - Purchase properties they land on.
    - Pay rent when landing on other players' properties.
-   - Draw cards from *Chance* or *Community Chest* decks.
+   - Draw cards from the *Chance* deck.
 3. The game continues turn-by-turn until a winning condition is reached.
